@@ -1,1 +1,0 @@
-<p align="justify">Le formulaire d'inscription sera mis en ligne dès que le commanditaire principal aura été trouvé.</p>

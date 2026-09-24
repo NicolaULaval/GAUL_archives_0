@@ -1,1 +1,0 @@
-<?php echo '<font color=red><b>Test FAIL</b></font> (mod_rewrite don`t work)'; ?>
